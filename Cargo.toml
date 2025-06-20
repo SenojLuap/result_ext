@@ -1,0 +1,10 @@
+[package]
+name = "result_ext"
+version = "1.0.0"
+authors = ["Paul Jones <sudoku-elf-frown@duck.com>"]
+repository = "https://github.com/SenojLuap/result-ext"
+edition = "2024"
+license-file = "LICENSE"
+keywords = ["result"]
+
+[dependencies]
